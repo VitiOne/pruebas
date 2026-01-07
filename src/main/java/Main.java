@@ -4,7 +4,7 @@ public class Main {
 
   public static void main(String[] args) {
 
-   
+    //Hola Victor
 
     int list[] ={5,8,10,25};
 
