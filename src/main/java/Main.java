@@ -4,7 +4,7 @@ public class Main {
 
   public static void main(String[] args) {
 
-    //recoger x numeros por teclado y mostrarlos en orden inverso
+   
 
     int list[] ={5,8,10,25};
 
